@@ -1,0 +1,15 @@
+uploads/*.pdf
+uploads/*.doc
+uploads/*.docx
+uploads/*.xls
+uploads/*.xlsx
+uploads/*.ppt
+uploads/*.pptx
+uploads/*.txt
+uploads/*.jpg
+
+venv/
+
+*.pdf
+*.mp3
+*.doc
